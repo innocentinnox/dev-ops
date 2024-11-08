@@ -40,7 +40,7 @@ CloudPanel's database backup schedule can be customized by modifying the cron jo
 
 ---
 
-## 2. Customizing Remote Backup Frequency
+## 2. Customizing CloudPanel Remote Backup Frequency
 
 The CloudPanel GUI may limit the frequency of remote backups. To set custom intervals, you can directly edit the cron job responsible for remote backups.
 
