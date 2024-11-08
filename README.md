@@ -62,7 +62,7 @@ The `workflows` folder will contain ready-to-use templates for common DevOps wor
 
 ## Author
 
-Created by [**Innocent Mujuni**](github.com/innocentinnox)
+Created by [**Innocent Mujuni**](https://github.com/innocentinnox)
 
 ## License
 
