@@ -8,7 +8,8 @@
 # All older backups are deleted to free up space and maintain only recent backups.
 #
 # Usage:
-# - Place this script in a directory like /usr/local/bin and make it executable with: chmod +x cleanup_all_backups.sh
+# - Place this script in a directory like /usr/local/bin
+# - make it executable with: chmod +x cleanup_all_backups.sh
 # - To run manually, use: sudo /usr/local/bin/cleanup_all_backups.sh
 # - Set up a cron job to run it automatically every 30 minutes (see example below).
 #
