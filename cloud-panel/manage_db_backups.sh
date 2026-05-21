@@ -36,7 +36,7 @@
 #   chmod +x /usr/local/bin/manage_db_backups.sh
 #
 # Cron (run 5 minutes before remote backup so hot area is clean before rclone):
-#   */30 * * * * root /usr/local/bin/manage_db_backups.sh >> /var/log/manage_db_backups.log 2>&1
+#   */30 * * * * /usr/local/bin/manage_db_backups.sh >> /var/log/manage_db_backups.log 2>&1
 #
 # CloudPanel rclone Excludes — add this line:
 #   /home/*/backups/databases/*/local/**
